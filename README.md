@@ -1,4 +1,4 @@
-🌳 Python Data Structures – SkillStack Paths Training
+# 🌳 Python Data Structures – SkillStack Paths Training
 
 ![Gaza Sky Geeks Logo](GSG_Logo.jpg)
 
@@ -9,7 +9,7 @@ It includes practical implementations and exercises covering core data structure
 
 ---
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 All folders are located inside the GSG.DS directory:
 
@@ -26,7 +26,7 @@ All folders are located inside the GSG.DS directory:
 
 ---
 
-🧠 Topics Covered
+## 🧠 Topics Covered
 
 - Linear and non-linear data structures
 - Stack and queue operations
@@ -39,7 +39,7 @@ All folders are located inside the GSG.DS directory:
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Deema Mohammed AL-Maqadma  
 Computer Science Student | GSG Trainee  
@@ -47,7 +47,7 @@ Focused on clean code, teamwork, and simplifying technical concepts.
 
 ---
 
-📝 Notes
+## 📝 Notes
 
 - All code is written in Python 3.
 - Each folder contains focused examples and implementations.
